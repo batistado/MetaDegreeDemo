@@ -12,4 +12,9 @@ npx hardhat test
 npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
+npx hardhat run scripts/run.js --network matic_testnet
 ```
+
+W
+
+logic diary cancel husband ceiling demand exist burger spend meadow journey uniform
